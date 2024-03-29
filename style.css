@@ -1,0 +1,127 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 50px;
+}
+
+header ul li a {
+  text-decoration: none;
+  display: flex;
+  justify-content: space-between;
+  color: #000000;
+}
+
+ul {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 50px;
+  list-style-type: none;
+  gap: 30px;
+  text-shadow: 0px 7px 4px 0px #371aab99;
+}
+
+li {
+  display: flex;
+  justify-content: space-between;
+  text-shadow: 0px 7px 4px 0px #371aab99;
+}
+
+ul li a {
+  text-shadow: 0px 7px 4px #371aab99;
+}
+
+.bg {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  padding: 76px 90px;
+  padding-bottom: 216px;
+  gap: 50px;
+}
+
+.box1 {
+  width: 133px;
+  height: 133px;
+  background-color: #fff;
+  border-radius: 5px;
+  box-shadow: 0px 8px 24px 0px #2fc63c;
+}
+
+.box2 {
+  width: 133px;
+  height: 133px;
+  background-color: #fff;
+  border-radius: 5px;
+  box-shadow: 0px 7px 29px 0px #64646f33;
+}
+
+.box3 {
+  width: 133px;
+  height: 133px;
+  background-color: #fff;
+  border-radius: 5px;
+  box-shadow: 1.9500000476837158px 1.9500000476837158px 2.5999999046325684px 0px
+    #00000026;
+}
+
+.box4 {
+  width: 133px;
+  height: 133px;
+  background-color: #fff;
+  border-radius: 5px;
+  box-shadow: 0px 5px 15px 0px #00000059;
+}
+
+.box5 {
+  width: 133px;
+  height: 133px;
+  background-color: #fff;
+  border-radius: 5px;
+  box-shadow: 0px 1px 4px 0px #000000ab;
+}
+
+.box6 {
+  width: 133px;
+  height: 133px;
+  background-color: #fff;
+  border-radius: 5px;
+  box-shadow: 0px 3px 8px 0px #ff0000;
+}
+
+.box7 {
+  width: 133px;
+  height: 133px;
+  background-color: #fff;
+  border-radius: 5px;
+  box-shadow: 0px 8px 24px 0px #007ffdeb;
+}
+
+.box8 {
+  width: 133px;
+  height: 133px;
+  background-color: #fff;
+  border-radius: 5px;
+  box-shadow: 0px 7px 36px 0px #64646fa8;
+}
+
+.box9 {
+  width: 133px;
+  height: 133px;
+  background-color: #fff;
+  border-radius: 5px;
+  box-shadow: 1.9500000476837158px 1.9500000476837158px 2.5999999046325684px 0px
+    #00000026;
+}
+
+.qutilar {
+  display: flex;
+  gap: 97px;
+  flex-wrap: wrap;
+}
